@@ -1,5 +1,3 @@
-> Portfolio copy of Team 8 Radar. Original team repository: https://github.com/thar-26/Team_08_RADAR. Project credits and source references are retained below.
-
 # Radar – Team 8
 
 **A Virtual Science Park for Blue Science Park**
