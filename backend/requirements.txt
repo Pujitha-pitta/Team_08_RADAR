@@ -1,0 +1,14 @@
+# Core libraries. The online demo on Vercel installs only these.
+# For the full local version use: pip install -r requirements-local.txt
+beautifulsoup4==4.15.0
+fastapi==0.162.5
+groq==1.7.0
+httpx==0.28.1
+lxml==6.1.3
+lxml_html_clean==0.4.6
+numpy==2.2.6
+pydantic==2.14.3
+python-dotenv==1.2.4
+trafilatura==2.3.1
+pyjwt==2.10.1
+

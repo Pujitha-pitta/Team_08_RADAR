@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node
+node_modules/
+.next/
+
+# Local caches
+data/raw_*/
+*.sqlite
+data/models/
+data/cache/
+data/radar.db*
+frontend/.next/
+.taste-skill/
+frontend/.next-build/
+data/demo_snapshot.db
+.claude/
+data/logos/
+
